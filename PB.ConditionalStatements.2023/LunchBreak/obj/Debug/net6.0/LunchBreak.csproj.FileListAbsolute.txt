@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\bin\Debug\net6.0\LunchBreak.exe
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\bin\Debug\net6.0\LunchBreak.deps.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\bin\Debug\net6.0\LunchBreak.runtimeconfig.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\bin\Debug\net6.0\LunchBreak.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\bin\Debug\net6.0\LunchBreak.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\refint\LunchBreak.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\LunchBreak.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\LunchBreak\obj\Debug\net6.0\ref\LunchBreak.dll

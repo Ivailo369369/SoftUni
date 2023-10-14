@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\bin\Debug\net6.0\ConvertUsdToBgn.exe
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\bin\Debug\net6.0\ConvertUsdToBgn.deps.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\bin\Debug\net6.0\ConvertUsdToBgn.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\bin\Debug\net6.0\ConvertUsdToBgn.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\bin\Debug\net6.0\ConvertUsdToBgn.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\refint\ConvertUsdToBgn.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ConvertUsdToBgn.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\ConvertUsdToBgn\obj\Debug\net6.0\ref\ConvertUsdToBgn.dll

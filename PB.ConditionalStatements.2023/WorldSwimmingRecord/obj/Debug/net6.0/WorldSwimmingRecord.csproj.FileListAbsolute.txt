@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.exe
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.deps.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.runtimeconfig.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\bin\Debug\net6.0\WorldSwimmingRecord.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\refint\WorldSwimmingRecord.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\WorldSwimmingRecord.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\WorldSwimmingRecord\obj\Debug\net6.0\ref\WorldSwimmingRecord.dll

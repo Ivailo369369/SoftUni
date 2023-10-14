@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TImePlus15Minutes/1.0.0": {
+        "runtime": {
+          "TImePlus15Minutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TImePlus15Minutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\bin\Debug\net6.0\RequiredSummerLiterature.exe
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\bin\Debug\net6.0\RequiredSummerLiterature.deps.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\bin\Debug\net6.0\RequiredSummerLiterature.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\bin\Debug\net6.0\RequiredSummerLiterature.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\bin\Debug\net6.0\RequiredSummerLiterature.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\refint\RequiredSummerLiterature.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\RequiredSummerLiterature.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\RequiredSummerLiterature\obj\Debug\net6.0\ref\RequiredSummerLiterature.dll

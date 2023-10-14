@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\bin\Debug\net6.0\ToyShop.exe
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\bin\Debug\net6.0\ToyShop.deps.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\bin\Debug\net6.0\ToyShop.runtimeconfig.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\bin\Debug\net6.0\ToyShop.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\bin\Debug\net6.0\ToyShop.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\refint\ToyShop.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ToyShop.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\ToyShop\obj\Debug\net6.0\ref\ToyShop.dll

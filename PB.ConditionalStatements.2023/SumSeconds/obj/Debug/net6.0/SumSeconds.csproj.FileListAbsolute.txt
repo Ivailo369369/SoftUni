@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\bin\Debug\net6.0\SumSeconds.exe
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\bin\Debug\net6.0\SumSeconds.deps.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\bin\Debug\net6.0\SumSeconds.runtimeconfig.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\bin\Debug\net6.0\SumSeconds.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\bin\Debug\net6.0\SumSeconds.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\refint\SumSeconds.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\SumSeconds.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\SumSeconds\obj\Debug\net6.0\ref\SumSeconds.dll

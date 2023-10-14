@@ -1,0 +1,15 @@
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\bin\Debug\net6.0\TImePlus15Minutes.exe
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\bin\Debug\net6.0\TImePlus15Minutes.deps.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\bin\Debug\net6.0\TImePlus15Minutes.runtimeconfig.json
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\bin\Debug\net6.0\TImePlus15Minutes.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\bin\Debug\net6.0\TImePlus15Minutes.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.csproj.AssemblyReference.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.AssemblyInfoInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.AssemblyInfo.cs
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\refint\TImePlus15Minutes.dll
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.pdb
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\TImePlus15Minutes.genruntimeconfig.cache
+C:\Users\Ivo\Desktop\SoftUni\PB.ConditionalStatements.2023\TImePlus15Minutes\obj\Debug\net6.0\ref\TImePlus15Minutes.dll

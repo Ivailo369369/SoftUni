@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\bin\Debug\net6.0\DepositCaculator.exe
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\bin\Debug\net6.0\DepositCaculator.deps.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\bin\Debug\net6.0\DepositCaculator.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\bin\Debug\net6.0\DepositCaculator.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\bin\Debug\net6.0\DepositCaculator.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\refint\DepositCaculator.dll
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.pdb
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\DepositCaculator.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.FirstStepInPrograming.2023\DepositCaculator\obj\Debug\net6.0\ref\DepositCaculator.dll
