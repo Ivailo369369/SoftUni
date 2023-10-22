@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\bin\Debug\net6.0\NewHouse.exe
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\bin\Debug\net6.0\NewHouse.deps.json
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\bin\Debug\net6.0\NewHouse.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\bin\Debug\net6.0\NewHouse.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\bin\Debug\net6.0\NewHouse.pdb
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\refint\NewHouse.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.pdb
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\NewHouse.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\NewHouse\obj\Debug\net6.0\ref\NewHouse.dll

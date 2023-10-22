@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\bin\Debug\net6.0\CleverLily.exe
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\bin\Debug\net6.0\CleverLily.deps.json
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\bin\Debug\net6.0\CleverLily.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\bin\Debug\net6.0\CleverLily.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\bin\Debug\net6.0\CleverLily.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\refint\CleverLily.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\CleverLily.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\CleverLily\obj\Debug\net6.0\ref\CleverLily.dll

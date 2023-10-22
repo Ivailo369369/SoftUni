@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\bin\Debug\net6.0\OnTimeForTheExam.exe
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\bin\Debug\net6.0\OnTimeForTheExam.deps.json
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\bin\Debug\net6.0\OnTimeForTheExam.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\bin\Debug\net6.0\OnTimeForTheExam.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\bin\Debug\net6.0\OnTimeForTheExam.pdb
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\refint\OnTimeForTheExam.dll
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.pdb
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\OnTimeForTheExam.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ConditionalStatementsAdvanced\OnTimeForTheExam\obj\Debug\net6.0\ref\OnTimeForTheExam.dll

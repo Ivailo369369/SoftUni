@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\bin\Debug\net6.0\NumbersEndingInSeven.exe
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\bin\Debug\net6.0\NumbersEndingInSeven.deps.json
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\bin\Debug\net6.0\NumbersEndingInSeven.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\bin\Debug\net6.0\NumbersEndingInSeven.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\bin\Debug\net6.0\NumbersEndingInSeven.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\refint\NumbersEndingInSeven.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\NumbersEndingInSeven.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\NumbersEndingInSeven\obj\Debug\net6.0\ref\NumbersEndingInSeven.dll

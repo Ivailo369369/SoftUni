@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\bin\Debug\net6.0\TennisRanklist.exe
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\bin\Debug\net6.0\TennisRanklist.deps.json
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\bin\Debug\net6.0\TennisRanklist.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\bin\Debug\net6.0\TennisRanklist.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\bin\Debug\net6.0\TennisRanklist.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\refint\TennisRanklist.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\TennisRanklist.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TennisRanklist\obj\Debug\net6.0\ref\TennisRanklist.dll

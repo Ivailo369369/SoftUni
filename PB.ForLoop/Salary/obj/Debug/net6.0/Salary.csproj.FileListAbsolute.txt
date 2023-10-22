@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\bin\Debug\net6.0\Salary.exe
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\bin\Debug\net6.0\Salary.deps.json
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\bin\Debug\net6.0\Salary.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\bin\Debug\net6.0\Salary.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\bin\Debug\net6.0\Salary.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\refint\Salary.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\Salary.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\Salary\obj\Debug\net6.0\ref\Salary.dll

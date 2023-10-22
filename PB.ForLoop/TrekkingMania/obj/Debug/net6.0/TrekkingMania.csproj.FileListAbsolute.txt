@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\bin\Debug\net6.0\TrekkingMania.exe
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\bin\Debug\net6.0\TrekkingMania.deps.json
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\bin\Debug\net6.0\TrekkingMania.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\bin\Debug\net6.0\TrekkingMania.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\bin\Debug\net6.0\TrekkingMania.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\refint\TrekkingMania.dll
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.pdb
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\TrekkingMania.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.ForLoop\TrekkingMania\obj\Debug\net6.0\ref\TrekkingMania.dll
