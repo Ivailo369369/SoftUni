@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\bin\Debug\net6.0\OldBooks.exe
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\bin\Debug\net6.0\OldBooks.deps.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\bin\Debug\net6.0\OldBooks.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\bin\Debug\net6.0\OldBooks.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\bin\Debug\net6.0\OldBooks.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\refint\OldBooks.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\OldBooks.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\PB.WhileLoop\obj\Debug\net6.0\ref\OldBooks.dll

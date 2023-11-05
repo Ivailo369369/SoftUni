@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\net6.0\SumPrimeNonPrime.exe
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\net6.0\SumPrimeNonPrime.deps.json
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\net6.0\SumPrimeNonPrime.runtimeconfig.json
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\net6.0\SumPrimeNonPrime.dll
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\net6.0\SumPrimeNonPrime.pdb
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.dll
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\refint\SumPrimeNonPrime.dll
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.pdb
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\SumPrimeNonPrime.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\net6.0\ref\SumPrimeNonPrime.dll

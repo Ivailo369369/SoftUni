@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumberPyramid.exe
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumberPyramid.deps.json
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumberPyramid.runtimeconfig.json
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumberPyramid.dll
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumberPyramid.pdb
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.dll
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\refint\NumberPyramid.dll
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.pdb
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\ref\NumberPyramid.dll

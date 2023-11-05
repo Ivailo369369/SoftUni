@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\bin\Debug\net6.0\Cake.exe
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\bin\Debug\net6.0\Cake.deps.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\bin\Debug\net6.0\Cake.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\bin\Debug\net6.0\Cake.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\bin\Debug\net6.0\Cake.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\refint\Cake.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\Cake.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Cake\obj\Debug\net6.0\ref\Cake.dll

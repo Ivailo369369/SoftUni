@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.exe
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.deps.json
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.runtimeconfig.json
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.dll
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\net6.0\TrainTheTrainers.pdb
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.dll
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\refint\TrainTheTrainers.dll
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.pdb
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\TrainTheTrainers.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\net6.0\ref\TrainTheTrainers.dll

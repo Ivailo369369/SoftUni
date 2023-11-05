@@ -1,0 +1,14 @@
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\bin\Debug\net6.0\Walking.exe
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\bin\Debug\net6.0\Walking.deps.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\bin\Debug\net6.0\Walking.runtimeconfig.json
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\bin\Debug\net6.0\Walking.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\bin\Debug\net6.0\Walking.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.AssemblyInfoInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.AssemblyInfo.cs
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.csproj.CoreCompileInputs.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\refint\Walking.dll
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.pdb
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\Walking.genruntimeconfig.cache
+C:\Users\ivatop\source\repos\PB.WhileLoop\Walking\obj\Debug\net6.0\ref\Walking.dll
